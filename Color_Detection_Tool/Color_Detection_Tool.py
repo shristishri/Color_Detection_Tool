@@ -4,7 +4,6 @@
 # In[1]:
 
 
-pip install opencv-python pillow webcolors
 
 
 # In[7]:
