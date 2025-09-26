@@ -1,0 +1,20 @@
+# Python Color Detection Tool - Requirements
+# Install with: pip install -r requirements.txt
+
+# Computer Vision and Image Processing
+opencv-python>=4.5.0
+
+# Image handling and display
+Pillow>=8.0.0
+
+# Color name mapping and conversion
+webcolors>=1.11.1
+
+# GUI Framework (tkinter) - Usually comes with Python, but listed for completeness
+# tkinter is included with Python standard library
+
+# Additional dependencies that might be needed on some systems
+numpy>=1.19.0
+
+# For Python 3.7+ compatibility
+typing-extensions>=3.10.0; python_version<"3.8"
